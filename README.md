@@ -126,3 +126,13 @@ quantization_config = BitsAndBytesConfig(
   - `BAAI/bge-large-en-v1.5`.
 
 ---
+
+## **Troubleshooting**
+
+### **1. GPU Memory Issues**
+- Use smaller LLMs (e.g., Qwen2.5-3B or Llama-2-7B).
+- Enable offloading for large model layers:
+  ```python
+  offload_folder="/content/offload"
+  offload_state_dict=True
+  ```
