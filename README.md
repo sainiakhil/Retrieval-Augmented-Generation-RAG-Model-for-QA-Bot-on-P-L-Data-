@@ -1,6 +1,4 @@
-# Retrieval-Augmented-Generation-RAG-Model-for-QA-Bot-on-P-L-Data-
-
-Here’s a detailed **README** file for your GitHub repository, covering both the **Part 1 (RAG Model for QA Bot on P&L Data)** and **Part 2 (Interactive QA Bot Interface for Financial Data)**. The README includes setup instructions, usage guidelines, and explanations.
+# Retrieval Augmented Generation RAG Model for QA Bot on P&LData
 
 ---
 
